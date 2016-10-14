@@ -8,5 +8,9 @@ public class Main {
 
         System.out.println(test);
 
+        int anotherTest = 20;
+
+        System.out.println(anotherTest);
+
     }
 }
